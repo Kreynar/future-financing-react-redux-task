@@ -1,6 +1,6 @@
-## The task
+# The task
 
-# BuildReactAppUsingRedux
+## BuildReactAppUsingRedux
 
 
 #Task and notes
@@ -33,7 +33,7 @@ returns { "val5" : "" }
 Inside application folder README.md file will be more for technical information.
 
 
-## Additional info
+# Additional info
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
