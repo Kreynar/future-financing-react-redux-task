@@ -13,7 +13,7 @@ class Button extends React.Component {
         disabled={!isInputValid || isFetchPending}>
         {isFetchPending ? (
           <div>
-            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+            <span className="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
             Loading...
           </div>
         ) : (

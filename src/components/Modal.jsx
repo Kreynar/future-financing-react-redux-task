@@ -17,7 +17,7 @@ class Modal extends React.Component {
           <Button color="danger" onClick={closeModal}>Close</Button>
         </ModalFooter>
       </ReactstrapModal>
-    );
+    )
   }
 }
 
